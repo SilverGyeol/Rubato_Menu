@@ -1,5 +1,7 @@
 # Rubato_Menu
-Slideup, SlideDown 메뉴 기능
+**js - slideup, slideDown 기능**
+
+**Menu 부분에 mouseover하면 js로 인해 Menu가 slideDown이 되고, mouseleave하면 slideUp이 됩니다.**
 
 ![image](https://user-images.githubusercontent.com/94829177/161185041-81468cc1-e522-4b47-bb4e-8bc63a602840.png)
 
